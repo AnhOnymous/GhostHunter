@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package edu.virignia.cs2110.ghosthunter;
+package edu.virginia.cs2110.ghosthunter;
 
 public final class R {
     public static final class attr {

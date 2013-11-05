@@ -1,4 +1,4 @@
-package edu.virignia.cs2110.ghosthunter;
+package edu.virginia.cs2110.ghosthunter;
 
 import android.os.Bundle;
 import android.app.Activity;
