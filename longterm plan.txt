@@ -1,0 +1,10 @@
+Long-term plan:
+
+-Get more comfortable with programming in Android
+-Design/code a splash screen that meets the basic criteria 
+-Get user's location and load google maps into the map
+-Generate ghosts in the map
+-Create a way to alert the user when ghosts are close
+-UI hud that displays relevant info (hp, money, ect)
+-create a way to be aware of what direction the user is facing and what location they are in
+-
