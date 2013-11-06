@@ -1,0 +1,30 @@
+Ghost Hunter Specs:
+
+- RPG Scavenger Survival Game
+
+Leveling:
+	- Money-based experience system (similar to Uncharted Multiplayer)
+	- Money is spendable
+		- Used on unlockables (unlocked based on level/money accumulated) 
+			- upgrades
+			- weapons
+	- Overall level based on total money earned
+	- Money earned by killing ghosts and finding treasure
+
+Ghosts:
+	- Tethered to a single point
+		- INDEPENDENTLY move around aimlessly within a certain radius from anchor
+			- Moves to random point at X speed...wait y seconds...move to next point (etc)
+		- Becomes hostile when player enters anchor zone
+			- Speed increases, hones in on player
+		- The anchor is bones and/or treasure/loot
+			- Destroying bones will kill ghost
+				- User gets exp
+			- Tresure is worth money (exp)
+	- Interaction
+		- Colliding with front of ghost harms user
+		- 
+		GPS
+		Direction pointing
+		click button/pick up bones
+		
