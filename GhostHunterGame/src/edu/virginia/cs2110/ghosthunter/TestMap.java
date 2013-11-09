@@ -1,3 +1,5 @@
+package edu.virginia.cs2110.ghosthunter;
+
 import com.google.android.gms.maps.*;
 import com.google.android.gms.maps.model.*;
 import android.app.Activity;
