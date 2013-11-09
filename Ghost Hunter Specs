@@ -14,7 +14,7 @@ Leveling:
 Ghosts:
 	- Tethered to a single point
 		- INDEPENDENTLY move around aimlessly within a certain radius from anchor
-			- Moves to random point at X speed...wait y seconds...move to next point (etc)
+			- (idea for algorithm) Moves to random point at X speed...wait randomY seconds...move to next point (etc)
 		- Becomes hostile when player enters anchor zone
 			- Speed increases, hones in on player
 		- The anchor is bones and/or treasure/loot
@@ -23,8 +23,8 @@ Ghosts:
 			- Tresure is worth money (exp)
 	- Interaction
 		- Colliding with front of ghost harms user
-		- 
+		- Vulnerable from behind. 
 		GPS
 		Direction pointing
-		click button/pick up bones
+		click button/pick up bones8
 		
